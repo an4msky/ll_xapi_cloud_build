@@ -45,7 +45,7 @@
     "jscommons": "^2.3.3",
     "lodash": "^4.17.4",
     "mongodb": "^3.0.2",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "source-map-support": "^0.5.0"
   },
   "devDependencies": {
